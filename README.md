@@ -17,7 +17,6 @@ Outside the registry I build small, practical tools: Chrome extensions, meeting 
 | [**Jump**](https://github.com/devshrawin/Jumper) | Fuzzy tab switcher: type a few letters and land on the right tab, history entry or page text |
 | [**Neo**](https://github.com/devshrawin/MinorityReport) | Local conversation memory: records and transcribes on your laptop, then answers "what did the client say about X?" |
 | [**NewsFlick**](https://github.com/devshrawin/NewsFlick) | Card-style news digest · [live](https://devshrawin.github.io/NewsFlick/) |
-| [**Tafri Times**](https://github.com/devshrawin/TafriTimes) | Indian satirical news site, generated and published entirely by GitHub Actions · [live](https://devshrawin.github.io/TafriTimes/) |
 
 #### 🧰 Toolkit
 
