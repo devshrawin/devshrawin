@@ -12,7 +12,6 @@ Outside the registry I build small, practical tools: Chrome extensions, meeting 
 
 | Project | What it does |
 |---|---|
-| [**Amnex HCM**](https://github.com/devshrawin/HRMS) | HR, attendance with geo check-in, leave, India payroll, performance and recruitment in one app. Next.js 15 · TypeScript · Prisma |
 | [**Debrief**](https://github.com/devshrawin/Debrief) | Meeting minutes from Google Meet in Hindi, English, Malayalam and the mixes in between |
 | [**AI Meter**](https://github.com/devshrawin/ai-meter) | Chrome extension that shows how much usage you have left on Claude, ChatGPT, Gemini and 10+ other AI chats |
 | [**Jump**](https://github.com/devshrawin/Jumper) | Fuzzy tab switcher: type a few letters and land on the right tab, history entry or page text |
@@ -23,7 +22,7 @@ Outside the registry I build small, practical tools: Chrome extensions, meeting 
 #### 🧰 Toolkit
 
 **Data:** SQL · data modeling · data integration · data quality & governance · Power BI (DAX) · Excel
-**Build:** Python · TypeScript · Next.js · Chrome extensions · Whisper / speech-to-text · LLM APIs
+**Build:** Python · TypeScript · Chrome extensions · Whisper / speech-to-text · LLM APIs
 
 #### 📫 Find me
 
