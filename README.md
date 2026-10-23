@@ -1,6 +1,6 @@
 ### Hi, I'm Shrawin 👋
 
-Data & Analytics at **Amnex Infotechnologies**, Thiruvananthapuram. I work on the **Kerala Unified Registry**, a state-scale platform that unifies resident data across 20+ government departments: entity resolution, Golden Record logic, data quality and governance, and QA of the AI systems that query it.
+Data & Analytics at **Amnex Infotechnologies**, Thiruvananthapuram. I work on the ** Unified Registry**, a state-scale platform that unifies resident data across 20+ government departments: entity resolution, Golden Record logic, data quality and governance, and QA of the AI systems that query it.
 
 Outside the registry I build small, practical tools: Chrome extensions, meeting transcription for Indian languages, and internal apps. Mostly they fix problems I keep running into at work.
 
